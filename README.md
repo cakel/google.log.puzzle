@@ -11,7 +11,7 @@ Images reside at Google server which uses HTTPS. So current urllib doesn't work 
 ```
 logpuzzle.py [--todir dir] logfile (animal_code.google.com|place_code.google.com)
 ```
-log files includes *animal_code.google.com* and *place_code.google.com*. Result images/html are archived as their name with zip extension.
+Log file includes *animal_code.google.com* and *place_code.google.com*. Result images/html are archived as their name with zip extension.
 if *--todir* is omitted, only shows result URL.
 
 ### License

@@ -5,7 +5,7 @@ Alternative solution for Google Python Class' logpuzzle Solution. Problem and re
 * python 2.x (tested with Python 2.7.11/Windows 7 x64)
 
 ### Change from reference solution
-Images reside at Google server which uses HTTPS. So current urllib doesn't work with urllib's _urlretrieve()_ or _urlopen()_ with below error  message
+Images reside at Google server which uses HTTPS. So reference solution doesn't work with urllib's _urlretrieve()_ or _urlopen()_ showing below error  message
 ```
 urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed 
 ```
